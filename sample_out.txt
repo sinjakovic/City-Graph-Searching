@@ -1,0 +1,57 @@
+Graph-building complete.
+
+Enter start city ("Q" to quit):
+Milwaukee
+Enter end city ("Q" to quit):
+New York City
+Path from Milwaukee to New York City: Milwaukee => New York City. Length = 740 miles.
+
+Enter start city ("Q" to quit):
+Milwaukee
+Enter end city ("Q" to quit):
+Toronto
+Path from Milwaukee to Toronto: Milwaukee => Toronto. Length = 433 miles.
+
+Enter start city ("Q" to quit):
+Milwaukee
+Enter end city ("Q" to quit):
+San Francisco
+Path from Milwaukee to San Francisco: Milwaukee => San Francisco. Length = 1837 miles.
+
+Enter start city ("Q" to quit):
+San Francisco
+Enter end city ("Q" to quit):
+Milwaukee
+Path from San Francisco to Milwaukee: San Francisco => Milwaukee. Length = 1837 miles.
+
+Enter start city ("Q" to quit):
+Milwaukee
+Enter end city ("Q" to quit):
+Paris
+Path from Milwaukee to Paris: Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Sevilla => Paris. Length = 9232 miles.
+
+Enter start city ("Q" to quit):
+Milwaukee
+Enter end city ("Q" to quit):
+Beijing
+Path from Milwaukee to Beijing: Milwaukee => Santo Domingo => Maturin => Fortaleza => Dakar => Algiers => Kiev => Chelyabinsk => Barnaul => Beijing. Length = 14261 miles.
+
+Enter start city ("Q" to quit):
+Milwaukee
+Enter end city ("Q" to quit):
+Milwaukee
+Path from Milwaukee to Milwaukee: Milwaukee. Length = 0 miles.
+
+Enter start city ("Q" to quit):
+Port Alberni
+Port Alberni is not part of data-base.  Please try again.
+
+Enter start city ("Q" to quit):
+Milwaukee
+Enter end city ("Q" to quit):
+La Crosse
+La Crosse is not part of data-base.  Please try again.
+
+Enter start city ("Q" to quit):
+Q
+Terminated.  Goodbye.
